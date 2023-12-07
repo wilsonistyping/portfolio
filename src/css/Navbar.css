@@ -1,0 +1,10 @@
+.nav {
+  display: flex;
+  flex-direction: row; /* Change the flex direction to row */
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
